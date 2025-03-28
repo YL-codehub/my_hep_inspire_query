@@ -1,15 +1,17 @@
 # Search Hep Inspire with your saved queries of interest
 HEP INSPIRE doesn't have a feature to save your queries of interest. This is a simple script for me to save my queries in a text file and search them with a single click.
 ## Fill search_query.txt
-Edit the search_query.txt file to add your query of interest. You can jump lines for clarity.
-See [HEP INSPIRE's help page](https://help.inspirehep.net/knowledge-base/inspire-paper-search/) for the search syntax.
-## Using the python script
+Create a 'search_query.txt' file to add your query of interest. You can jump lines for clarity.
+See [HEP INSPIRE's help page](https://help.inspirehep.net/knowledge-base/inspire-paper-search/) for the search syntax or our example file.
+
+## Run the script
+### Using the python script
 No need to install any package, just run the following command:
 ```
 python main.py
 ```
 
-## Using a .exe file generated from the python script
+### Using a .exe file generated from the python script
 Install pyinstaller,
 ```
 pip install pyinstaller

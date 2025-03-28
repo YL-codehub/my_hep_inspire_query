@@ -1,3 +1,6 @@
+# Ignore confidential files
+search_query.txt
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
