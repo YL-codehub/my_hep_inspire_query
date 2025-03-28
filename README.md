@@ -16,6 +16,6 @@ pip install pyinstaller
 ```
 and run the following command to create the executable file:
 ```
-pyinstaller --onefile --distpath ./ --name search_inspire main.py
+pyinstaller --onefile --distpath ./ --name search_inspire --icon=logo_inspire.ico main.py
 ```
-to get a single (clickable) executable file named search_inspire.exe in the current directory. After building the .exe, you can still edit the search_query.txt file and run the executable file to get the results.
+to get a single (clickable) executable file named search_inspire.exe in the current directory. The HEP inspire logo will appear when creating a shortcut, e.g. on your taskbar. After building the .exe, you can still edit the search_query.txt file and run the executable file to get the results.
