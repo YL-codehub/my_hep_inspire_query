@@ -10,7 +10,7 @@ with open('search_query.txt', 'r') as file:
 encoded_query = urllib.parse.quote(search_query)
 
 # Construct the full URL
-base_url = "https://inspirehep.net/literature?sort=mostrecent&size=250&page=1&q="
+base_url = "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q="
 full_url = f"{base_url}{encoded_query}"
 
 # Open the URL in the default web browser
