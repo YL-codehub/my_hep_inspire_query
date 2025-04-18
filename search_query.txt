@@ -1,0 +1,5 @@
+(
+a v.vennin.1 | a e.pajer.1 | a t.colas.1 | a.caravano.1 | Nima.Arkani.Hamed.1 |  Danilo.Artigas.1 | Josu.C.Aurrekoetxea.1 | E.A.Lim.1 | Daniel.Baumann.1 | P.Benincasa.1 | G.Ballesteros.1 | Lucas.Pinol.1 | S.Renaux.Petel.1 | C.P.Burgess.1 | S.Cespedes.1 |  Xin.Gang.Chen.1 | K.Clough.1 | Daniel.R.Green.1 | P.Creminelli.1 | Diego.Cruces.1 | C.Germani.1 | D.G.Figueroa.1 | Eiichiro.Komatsu.1 | J.Grain.1 | L.Iacconi.1 | Cristian.Joana.1 | D.Wands.1 | Jerome.Martin.1 | S.S.Mishra.1 | D.J.Mulryne.1 | M.Noorbala.1 | T.Prokopec.1 | Santiago.Agui.Salcedo.1 | D.Seery.1 | L.Senatore.1 | E.Tomberg.1 | Denis.Werth.1
+ | ft "stochastic inflation" | stochastic inflation | fulltext:inflation* and fulltext:cosmolog* | fulltext:inflation* and fulltext:cosmolog* and ft "neural network" | fulltext:inflation* and fulltext:cosmolog* and ft "non-gaussianity" 
+
+) + de >2024

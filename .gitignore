@@ -1,5 +1,5 @@
 # Ignore confidential files
-search_query.txt
+# search_query.txt
 
 # Ignore Python cache files
 __pycache__/
